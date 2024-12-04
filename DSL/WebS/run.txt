@@ -1,0 +1,5 @@
+pip install flask
+python app.py
+ON ANOTHER TERMINAL 
+  pip install requests
+  python client.py
